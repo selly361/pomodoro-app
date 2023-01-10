@@ -1,0 +1,5 @@
+export { ReactComponent as ArrowUpIcon } from "./icon-arrow-up.svg"
+export { ReactComponent as ArrowDownnIcon } from "./icon-arrow-down.svg"
+export { ReactComponent as CloseIcon } from "./icon-close.svg"
+export { ReactComponent as LogoIcon } from "./icon-logo.svg"
+export { ReactComponent as SettingsIcon } from "./icon-settings.svg"
